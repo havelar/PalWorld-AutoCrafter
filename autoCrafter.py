@@ -1,11 +1,12 @@
 import keyboard
 
-HEADER = '''
-Holds F to Auto-Craft in PalWorld.
-
-F12 -> To start holding F
-W A S D F -> To stop holding F
-Pause / Break -> To close the program
+HEADER = '''----------------------------------------
+Holds F to Auto-Craft in PalWorld.     |
+                                       |
+F12 -> To start holding F              |
+W A S D F -> To stop holding F         |
+Pause / Break -> To close the program  |
+----------------------------------------
 '''
 
 class PalWorld:
